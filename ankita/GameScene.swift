@@ -20,6 +20,14 @@ class GameScene: SKScene {
     
     override func sceneDidLoad() {
 
+        
+        
+        
+        
+        
+        
+        
+        //hfgkhjgkghh
         self.lastUpdateTime = 0
         
         // Get label node from scene and store it for use later
